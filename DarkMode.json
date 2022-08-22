@@ -1,0 +1,28 @@
+{
+  "title": "Dark Mode",
+  "version": "0.2.0",
+  "maintainers": [
+    "Saafo"
+  ],
+  "homepage": "https://github.com/Saafo/Kapslox",
+  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Saafo/Kapslox/main/DarkMode.json",
+  "rules": [
+    {
+      "description": "F6 to Toggle Dark Mode",
+      "manipulators": [
+        {
+          "description": "F6 to Toggle Dark Mode",
+          "type": "basic",
+          "from": {
+            "key_code": "f6"
+          },
+          "to": [
+            {
+              "shell_command": "osascript -e 'tell application \"System Events\" to tell appearance preferences to set dark mode to not dark mode'"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
