@@ -53,7 +53,7 @@
     },
     {
       "description": "Kapslox Cursor Navigation",
-      "manipulators":[
+      "manipulators": [
         {
           "description": "Capslock + e -> ↑",
           "type": "basic",
@@ -62,6 +62,10 @@
             "modifiers": {
               "mandatory": [
                 "fn"
+              ],
+              "optional": [
+                "option",
+                "command"
               ]
             }
           },
@@ -79,6 +83,10 @@
             "modifiers": {
               "mandatory": [
                 "fn"
+              ],
+              "optional": [
+                "option",
+                "command"
               ]
             }
           },
@@ -96,6 +104,10 @@
             "modifiers": {
               "mandatory": [
                 "fn"
+              ],
+              "optional": [
+                "option",
+                "command"
               ]
             }
           },
@@ -113,6 +125,10 @@
             "modifiers": {
               "mandatory": [
                 "fn"
+              ],
+              "optional": [
+                "option",
+                "command"
               ]
             }
           },
@@ -175,6 +191,10 @@
             "modifiers": {
               "mandatory": [
                 "fn"
+              ],
+              "optional": [
+                "option",
+                "command"
               ]
             }
           },
@@ -195,6 +215,10 @@
             "modifiers": {
               "mandatory": [
                 "fn"
+              ],
+              "optional": [
+                "option",
+                "command"
               ]
             }
           },
@@ -215,6 +239,10 @@
             "modifiers": {
               "mandatory": [
                 "fn"
+              ],
+              "optional": [
+                "option",
+                "command"
               ]
             }
           },
@@ -235,6 +263,10 @@
             "modifiers": {
               "mandatory": [
                 "fn"
+              ],
+              "optional": [
+                "option",
+                "command"
               ]
             }
           },
