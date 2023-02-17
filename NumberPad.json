@@ -5,10 +5,10 @@
     "Saafo"
   ],
   "homepage": "https://github.com/Saafo/Kapslox",
-  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Saafo/Kapslox/main/Numberpad.json",
+  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Saafo/Kapslox/main/NumberPad.json",
   "rules": [
     {
-      "description": "Numberpad",
+      "description": "Number Pad",
       "manipulators": [
         {
           "description": "Spacebar as right option",
