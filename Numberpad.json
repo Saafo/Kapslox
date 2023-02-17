@@ -1,0 +1,203 @@
+{
+  "title": "Number Pad",
+  "version": "0.1.0",
+  "maintainers": [
+    "Saafo"
+  ],
+  "homepage": "https://github.com/Saafo/Kapslox",
+  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Saafo/Kapslox/main/Numberpad.json",
+  "rules": [
+    {
+      "description": "Numberpad",
+      "manipulators": [
+        {
+          "description": "Spacebar as right option",
+          "type": "basic",
+          "from": {
+            "key_code": "spacebar"
+          },
+          "to": [
+            {
+              "key_code": "right_option"
+            }
+          ],
+          "to_if_alone": [
+            {
+              "key_code": "spacebar"
+            }
+          ]
+        },
+        {
+          "description": "Spacebar + z = 0",
+          "type": "basic",
+          "from": {
+            "key_code": "z",
+            "modifiers": {
+              "mandatory": [
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "0"
+            }
+          ]
+        },
+        {
+          "description": "Spacebar + x = 1",
+          "type": "basic",
+          "from": {
+            "key_code": "x",
+            "modifiers": {
+              "mandatory": [
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "1"
+            }
+          ]
+        },
+        {
+          "description": "Spacebar + c = 2",
+          "type": "basic",
+          "from": {
+            "key_code": "c",
+            "modifiers": {
+              "mandatory": [
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "2"
+            }
+          ]
+        },
+        {
+          "description": "Spacebar + v = 3",
+          "type": "basic",
+          "from": {
+            "key_code": "v",
+            "modifiers": {
+              "mandatory": [
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "3"
+            }
+          ]
+        },
+        {
+          "description": "Spacebar + s = 4",
+          "type": "basic",
+          "from": {
+            "key_code": "s",
+            "modifiers": {
+              "mandatory": [
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "4"
+            }
+          ]
+        },
+        {
+          "description": "Spacebar + d = 5",
+          "type": "basic",
+          "from": {
+            "key_code": "d",
+            "modifiers": {
+              "mandatory": [
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "5"
+            }
+          ]
+        },
+        {
+          "description": "Spacebar + f = 6",
+          "type": "basic",
+          "from": {
+            "key_code": "f",
+            "modifiers": {
+              "mandatory": [
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "6"
+            }
+          ]
+        },
+        {
+          "description": "Spacebar + w = 7",
+          "type": "basic",
+          "from": {
+            "key_code": "w",
+            "modifiers": {
+              "mandatory": [
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "7"
+            }
+          ]
+        },
+        {
+          "description": "Spacebar + e = 8",
+          "type": "basic",
+          "from": {
+            "key_code": "e",
+            "modifiers": {
+              "mandatory": [
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "8"
+            }
+          ]
+        },
+        {
+          "description": "Spacebar + r = 9",
+          "type": "basic",
+          "from": {
+            "key_code": "r",
+            "modifiers": {
+              "mandatory": [
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "9"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
