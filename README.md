@@ -39,7 +39,7 @@ This configuration allows you to using number pad inside the alphabet area of yo
 
 &ensp; w e r &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;7 8 9
 
-&ensp; s d f &ensp; equals to &ensp; &ensp; 4 5 6
+a s d f &ensp; equals to &ensp; . 4 5 6
 
 z x c v &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;0 1 2 3
 
