@@ -8,7 +8,11 @@ This repository contains Implementation of Capslox default configurations on Kar
 
 ## Kapslox.json
 
-[Import URL](karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Saafo/Kapslox/main/Kapslox.json)
+Import URL:
+
+```
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Saafo/Kapslox/main/Kapslox.json
+```
 
 This configuration implemented default configurations that `Capslox` provides, which empowers your `CAPS LOCKS` key, and includes:
 
@@ -24,13 +28,21 @@ One of the main good point of using `fn` as hyper key is that you can passthough
 
 ## DarkMode.json
 
-[Import URL](karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Saafo/Kapslox/main/DarkMode.json)
+Import URL:
+
+```
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Saafo/Kapslox/main/DarkMode.json
+```
 
 This configuration allows you to simply press `F6` to toggle Dark Mode. I chose `F6` because there is a moon on it.
 
 ## NumberPad.json
 
-[Import URL](karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Saafo/Kapslox/main/NumberPad.json)
+Import URL:
+
+```
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Saafo/Kapslox/main/NumberPad.json
+```
 
 This configuration allows you to using number pad inside the alphabet area of you keyboard, here's how to use:
 
@@ -45,8 +57,33 @@ z x c v &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;0 1 2 3
 
 This configuration works well with `Kapslox`.
 
+## NumberKeyPad.json
+
+Import URL:
+
+```
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Saafo/Kapslox/main/NumberKeyPad.json
+```
+
+This configuration allows you to using number pad inside the alphabet area of you keyboard, here's how to use:
+
+1. Press and hold Spacebar
+2. Press:
+
+&ensp; w e r &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;7 8 9
+
+a s d f &ensp; equals to &ensp; . 4 5 6
+
+z x c v &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;0 1 2 3
+
+This configuration works well with `Kapslox`. It differs from `NumberPad.json` by using `keypad_n` instread of `n`.
+
 ## LaunchApps.json
 
-[Import URL](karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Saafo/Kapslox/main/LaunchApps.json)
+Import URL
+
+```
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Saafo/Kapslox/main/LaunchApps.json
+```
 
 This configuration allows you to Launch Apps quickly using ``Caps + ` / 1 / 2 / 3`` or etc. to launch different apps. You can customize it easily.
