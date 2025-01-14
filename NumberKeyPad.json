@@ -1,5 +1,5 @@
 {
-  "title": "Number Pad",
+  "title": "Number Key Pad",
   "version": "0.1.0",
   "maintainers": [
     "Saafo"
@@ -8,7 +8,7 @@
   "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Saafo/Kapslox/main/NumberKeyPad.json",
   "rules": [
     {
-      "description": "Number Pad",
+      "description": "Number Key Pad",
       "manipulators": [
         {
           "description": "Spacebar as right option",
