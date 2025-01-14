@@ -196,6 +196,15 @@
               "key_code": "9"
             }
           ]
+        },
+        {
+            "description": "Spacebar + a = .",
+            "from": {
+                "key_code": "a",
+                "modifiers": { "mandatory": ["right_option"] }
+            },
+            "to": [{ "key_code": "period" }],
+            "type": "basic"
         }
       ]
     }
