@@ -76,7 +76,7 @@ a s d f &ensp; equals to &ensp; . 4 5 6
 
 z x c v &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;0 1 2 3
 
-This configuration works well with `Kapslox`. It differs from `NumberPad.json` by using `keypad_n` instread of `n`.
+This configuration works well with `Kapslox`. It differs from `NumberPad.json` by using `keypad_n` instread of `n`, and **cannot be used together** with that.
 
 ## LaunchApps.json
 
