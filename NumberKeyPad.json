@@ -5,7 +5,7 @@
     "Saafo"
   ],
   "homepage": "https://github.com/Saafo/Kapslox",
-  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Saafo/Kapslox/main/NumberPad.json",
+  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Saafo/Kapslox/main/NumberKeyPad.json",
   "rules": [
     {
       "description": "Number Pad",
@@ -40,7 +40,7 @@
           },
           "to": [
             {
-              "key_code": "0"
+              "key_code": "keypad_0"
             }
           ]
         },
@@ -57,7 +57,7 @@
           },
           "to": [
             {
-              "key_code": "1"
+              "key_code": "keypad_1"
             }
           ]
         },
@@ -74,7 +74,7 @@
           },
           "to": [
             {
-              "key_code": "2"
+              "key_code": "keypad_2"
             }
           ]
         },
@@ -91,7 +91,7 @@
           },
           "to": [
             {
-              "key_code": "3"
+              "key_code": "keypad_3"
             }
           ]
         },
@@ -108,7 +108,7 @@
           },
           "to": [
             {
-              "key_code": "4"
+              "key_code": "keypad_4"
             }
           ]
         },
@@ -125,7 +125,7 @@
           },
           "to": [
             {
-              "key_code": "5"
+              "key_code": "keypad_5"
             }
           ]
         },
@@ -142,7 +142,7 @@
           },
           "to": [
             {
-              "key_code": "6"
+              "key_code": "keypad_6"
             }
           ]
         },
@@ -159,7 +159,7 @@
           },
           "to": [
             {
-              "key_code": "7"
+              "key_code": "keypad_7"
             }
           ]
         },
@@ -176,7 +176,7 @@
           },
           "to": [
             {
-              "key_code": "8"
+              "key_code": "keypad_8"
             }
           ]
         },
@@ -193,7 +193,7 @@
           },
           "to": [
             {
-              "key_code": "9"
+              "key_code": "keypad_9"
             }
           ]
         }
